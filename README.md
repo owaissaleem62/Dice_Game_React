@@ -34,7 +34,7 @@ npm install
 Run the development environment:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This command runs the app in the development mode.
